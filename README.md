@@ -13,5 +13,6 @@ This Airbnb data analysis project looks at customer behavior and preferences to 
 •	Special price for residents of all countries placing an order for less then a month and a half.\
 •	offering guests deals on rooms/ apartments near attractions and activities that suit their preferences:\
 [image here]\
-•	Building a pricing structure with special rates for minimum nights [image here]\
+•	Building a pricing structure with special rates for minimum nights\
+[image here]\
 •	Creating a special pricing list for users who make immediate reservations without searching
