@@ -13,6 +13,8 @@ This Airbnb data analysis project looks at customer behavior and preferences to 
 •	Special price for residents of all countries placing an order for less then a month and a half.\
 •	offering guests deals on rooms/ apartments near attractions and activities that suit their preferences:\
 ![Recommendation3](https://github.com/Maayanbar28/Airbnb-Dublin/assets/135050162/41b598fc-5afd-4af4-a6ba-d8cf55947c19)
+
 •	Building a pricing structure with special rates for minimum nights:
 ![Recommendation4](https://github.com/Maayanbar28/Airbnb-Dublin/assets/135050162/8d343404-ddc0-4e5c-9378-f1aa5b35f2e4)
+
 •	Creating a special pricing list for users who make immediate reservations without searching
