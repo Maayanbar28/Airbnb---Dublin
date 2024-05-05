@@ -20,4 +20,4 @@ This Airbnb data analysis project looks at customer behavior and preferences to 
 ![Recommendation4](https://github.com/Maayanbar28/Airbnb-Dublin/assets/135050162/8d343404-ddc0-4e5c-9378-f1aa5b35f2e4)
 
 
-•	Creating a special pricing list for users who make immediate reservations without searching
+•	Creating a special pricing list for users who make immediate reservations without searching.
