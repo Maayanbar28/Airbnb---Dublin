@@ -11,7 +11,7 @@ This Airbnb data analysis project looks at customer behavior and preferences to 
 ## Recommendation: 
 •	Special price for residents of Ireland who are placing an order for less then a month.\
 •	Special price for residents of all countries placing an order for less then a month and a half.\
-•	offering guests deals on rooms/ apartments near attractions and activities that suit their preferences:\
+•	offering guests deals on rooms/ apartments near attractions and activities that suit their preferences:
 
 ![Recommendation3](https://github.com/Maayanbar28/Airbnb-Dublin/assets/135050162/41b598fc-5afd-4af4-a6ba-d8cf55947c19)
 
