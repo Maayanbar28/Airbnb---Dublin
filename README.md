@@ -15,8 +15,8 @@ This Airbnb data analysis project looks at customer behavior and preferences to 
 
 ![Recommendation3](https://github.com/Maayanbar28/Airbnb-Dublin/assets/135050162/e4c7dac6-fd86-4693-bdb1-bc08c479b702)
 
-•	Building a pricing structure with special rates for minimum nights
+•	Building a pricing structure with special rates for minimum nights:
 
 ![Recommendation4](https://github.com/Maayanbar28/Airbnb-Dublin/assets/135050162/fbd0f492-b082-45b7-917a-56d5eaead808)
 
-•	Creating a special pricing list for users who make immediate reservations without searching
+•	Creating a special pricing list for users who make immediate reservations without searching.
